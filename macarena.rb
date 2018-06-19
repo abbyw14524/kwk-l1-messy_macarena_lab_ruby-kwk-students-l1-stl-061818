@@ -2,6 +2,7 @@ puts "How To Do The Macarena:"
 puts "Right arm out in front of you, palm facing down"
 puts "Left arm out in front of you, palm facing down"
 puts "Turn your right palm up"
+puts "Turn your left palm up"
 puts ""
 
 # Fix The Dance Instructions Below

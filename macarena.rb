@@ -5,7 +5,8 @@ puts "Turn your right palm up"
 puts "Turn your left palm up"
 puts "Place your right hand on your left shoulder"
 puts "Place your left hand on your right shoulder"
-puts ""
+puts "Bring your right hand up and around to the back of your head"
+puts "Bring your left hand up and around to the back of your head"
 
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
